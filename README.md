@@ -1,2 +1,2 @@
 # Simplified_Minesweeper
-簡易的なマインスイーパーゲームプログラム
+Simple minesweeper game program
